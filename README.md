@@ -2,6 +2,8 @@
 
 Projects Based on Machine Learning With Code, Document And Video Tutorial.
 
+![Image](https://github.com/user-attachments/assets/b3a9ef8d-d401-44b7-bc20-ffe94b14e09f)
+
 ## Youtube link: https://youtu.be/u7OyDWHhwRM?si=gL8ZnPj8UqOdPFd0
 
 ## Projects Based On Machine Learning List: 
