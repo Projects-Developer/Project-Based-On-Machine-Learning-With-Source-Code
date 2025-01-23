@@ -4,7 +4,7 @@ Projects Based on Machine Learning With Code, Document And Video Tutorial.
 
 ## Youtube link: https://youtu.be/u7OyDWHhwRM?si=gL8ZnPj8UqOdPFd0
 
-## Project Based On Machine Learning List: 
+## Projects Based On Machine Learning List: 
 
 #### 1. MALWARE DETECTION PROJECT: https://youtu.be/o7W1fRSxci0?si=eipT5jwLXyH81tGt    
 #### 2. STOCK PRICE PREDICTION:    https://youtu.be/nh4BOMuaF_I?si=P3zGalUw1qD9nE_9
